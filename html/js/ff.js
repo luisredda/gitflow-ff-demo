@@ -115,7 +115,7 @@ $( function() {
 		audio.play();
 		setTimeout(() => {  audio.pause();lockSong = false;}, 25000);
 	}
-}
+}//
 )
 } );
 
